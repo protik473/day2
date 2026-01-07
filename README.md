@@ -1,2 +1,7 @@
 # day2
-CSS selectors: element, class, id, Box model, display: flex, justify-content, align-items, gap, Simple responsive mindset (widths, spacing),
+What i will learn
+
+CSS syntax and selectors,
+Box model (margin, padding, border),
+Basic typography and colors,
+Flexbox fundamentals for layout.
